@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.0
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:latest
 MAINTAINER hason.zhu@gmail.com
